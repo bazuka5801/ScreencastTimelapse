@@ -23,6 +23,7 @@ Supported OS: MacOS
 while :;do screencapture ~/Desktop/screen/CG--$(date "+%y-%m-%d--%H-%M-%S").png;sleep 10;done
 ```
 P.s. press `Ctrl+C` to stop recording
+P.s. In previous command, you can change `CG--` to your short video title or project name ex: `MyTitle--`
 
 2. Convert all screenshots to 60fps video
 ```bash
